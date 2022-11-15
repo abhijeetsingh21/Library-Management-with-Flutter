@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965212278435",
+    "project_id": "college-project-a5c7d",
+    "storage_bucket": "college-project-a5c7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965212278435:android:6e6a2b13ebebc759e8b916",
+        "android_client_info": {
+          "package_name": "com.example.hridey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965212278435-snhvdh8rcttshak6lhoi3he7gmr64mv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPJjFxkqC4IjWlGCjCDEdCwq7u0DtG7gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965212278435-snhvdh8rcttshak6lhoi3he7gmr64mv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
